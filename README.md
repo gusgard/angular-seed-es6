@@ -100,4 +100,4 @@ build/                  --> all compiled files for the application
 * TODO
 
 ## Inspired by
-- [anuglar-seed](https://github.com/angular/angular-seed)
+- [angular-seed](https://github.com/angular/angular-seed)
